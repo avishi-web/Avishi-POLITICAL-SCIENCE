@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Seat Distribution</title>
+
+<style>
+a 
+{
+ text-decoration:none;
+}
+
+</style>
+
+</head>
+
+<body bgcolor="#E5D3B3">
+
+<font size="4" color="#4c3228">
+
+<table style="width:100%;">
+
+<tr style="background:#6a4a3a;">
+<td align="center" style="padding:10px;"><a href="Political Parties.html" style="color:#E5D3B3;">Political Parties</a></td>
+<td align="center" style="padding:10px;"><a href="Seat Distribution.html" style="color:#E5D3B3;">Seat Distribution</a></td>
+<td align="center" style="padding:10px;"><a href="Ideologies and Objectives.html" style="color:#E5D3B3;">Ideology and Objectives</a></td>
+<td align="center" style="padding:10px;"><a href="Regional Parties.html" style="color:#E5D3B3;">Regional Parties</a></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>      
+<br> 
+<h3> State Assembly Election</h3>
+<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><img src="se.jpg" height="400"></center>
+</td>
+<td>
+<center><img src="se graph.png" height="400"></center>
+</td>
+</tr>
+
+<tr>
+<td>      
+<br> 
+<h3> National Lok Sabha Election</h3>
+<br>
+</td>
+</tr>
+
+<tr>
+<td>
+<center><img src="ne.jpeg" height="400"></center>
+</td>
+<td>
+<center><img src="ne graph.png" height="400"></center>
+</td>
+</tr>
+
+</table> 
+
+</font>
+
+</body>
+</html>
